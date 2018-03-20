@@ -3,6 +3,10 @@ This is a simple demo app that show how you can easily destroy OnePlus system (t
 This demo app will keep OnePlus in loop and the device won't be functional.
 
 This lines of code make it happen:
+``` java
+    builder.setSmallIcon(R.mipmap.ic_launcher)
+```
+
 
 ``` java
     private void sendNotification(String title, String content) {
