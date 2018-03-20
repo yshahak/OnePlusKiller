@@ -1,5 +1,6 @@
 # OnePlusKiller
-This is a simple demo app that show how you can easily destroy the one plus system running android 8.0.0 OxygenOS 5.0.1 or 5.0.4
+This is a simple demo app that show how you can easily destroy OnePlus system (tested on 3T and 5T) running android 8.0.0 OxygenOS 5.0.1 or 5.0.4
+This demo app will keep OnePlus in loop and the device won't be functional.
 
 This lines of code make it happen:
 
